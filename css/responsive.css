@@ -1,0 +1,26 @@
+
+/*@media (min-width: 1201) and (max-width: 1366px) {
+
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+}
+*/
+@media (min-width: 576px) and (max-width: 768px) {
+	.main-center .responsive{
+	    display: block;
+	}
+	.main-nav {
+	    display: none;
+	}
+}
+@media (max-width: 575px){
+	.main-center .responsive{
+	    display: block;
+	}
+	.main-nav {
+	    display: none;
+	}
+}
+
